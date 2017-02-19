@@ -1,1 +1,1 @@
-include ':app', ':plaid-components'
+include ':sample', ':components'
