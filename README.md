@@ -1,9 +1,9 @@
-#plaid-components
+# plaid-components
 
 > Common UI-Components used in [Plaid](https://github.com/nickbutcher/plaid) - extracted and packaged as single library module.
 
 
-##NOTE: Still WIP and not intended for public usage yet!
+## NOTE: Still WIP and not intended for public usage yet!
 
 This packaged Android Library contains - *yet a few* - components, aka Custom Views, originally extracted from Plaid's Source.
 
